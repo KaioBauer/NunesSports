@@ -1,7 +1,3 @@
-Perfeito! Abaixo está o `README.md` atualizado com instruções para uso do **dotenv** no backend (usando variáveis de ambiente com `.env`).
-
----
-
 # Nunes Sports - Sistema de Gestão de Produtos
 
 Este projeto é uma aplicação web fullstack desenvolvida para a empresa fictícia **Nunes Sports**, com o objetivo de gerenciar os produtos vendidos.
